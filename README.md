@@ -13,14 +13,7 @@ This project simulates a simple airline booking system where users can:
 ## 🏗️ Project Structure  
 ```
 airline-reservation-system/
-│
-├── models/
-│   ├── passenger.py   # Passenger class
-│   ├── ticket.py      # Ticket class
-│   ├── flight.py      # Flight class
-│   └── airline.py     # Airline class
-│
-├── main.py            # Entry point with menu system
+├── main.py            
 └── README.md
 ```
 
